@@ -1,0 +1,47 @@
+<style type="text/css">
+body {
+  background: #E7FFFB;
+}
+
+h2 {
+  background: #FF0000;
+  width: 50%;
+}
+
+div {
+  width: 50%;
+  margin: 30px;
+}
+
+.class1 {
+  background: #E6EDF0;
+  color: #04080f;
+  font-size: 60px;
+  font-family: futura;
+  margin: 5%;
+
+}
+
+.class2 {
+  background: #E7FFFB;
+  color: #04080f;
+  font-size: 40px;
+  font-family: futura;
+  margin: 5%;
+}
+
+.class3 {
+  background: #dae3e5
+  color:04080f;
+  font-size: 20px;
+  font-family: futura;
+  margin: 5%;
+}
+
+.class4 {
+  margin: 5%;
+}
+
+
+
+</style>
